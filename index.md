@@ -4,6 +4,7 @@
 ![Cover](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1C2JmUMdAnf9UEs8ZP9RWAHaEn%26pid%3DApi&f=1)
 
 # Characters
+
 Name | Type | Cost [gems] | Weapon | Element
 --- | --- | --- | --- | --- |
 Asagi | Human | 800 | Kitana | Time
