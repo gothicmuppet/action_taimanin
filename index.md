@@ -42,20 +42,20 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 
 # Questions and Answers
 1. Are there ways to gain supporters rather than by Gatcha?
-- Yes, do the seasonal events. Once you get the top prize, which is the supporter, then reset it and keep going up to 10 times. Every other time is a Gatcha token.
+    - Yes, do the seasonal events. Once you get the top prize, which is the supporter, then reset it and keep going up to 10 times. Every other time is a Gatcha token.
 
 2. Are there ways to gain gems?
-- Yes, do the events and quests that are new. You get 10 gems for each new one you clear.
-- Max out intimacy level of supporters
-- Complete weekly quests for 60 gems
+    - Yes, do the events and quests that are new. You get 10 gems for each new one you clear.
+    - Max out intimacy level of supporters
+    - Complete weekly quests for 60 gems
 
 3. Are there other ways to obtain characters than by the store?
-- Yes, there are seasonal events where you can obtain characters. An example is when they release characters for Ingrid vs Osaki.
+    - Yes, there are seasonal events where you can obtain characters. An example is when they release characters for Ingrid vs Osaki.
 
 4. Is there a way to try a character before you buy?
-- Unfortunately, no there is not.
+    - Unfortunately, no there is not.
 
 5. How can I increase my gold currencies?
-- You can do the side quests that involve gold ingots. Sell those for increase gold currencies.
+    - You can do the side quests that involve gold ingots. Sell those for increase gold currencies.
 
 8. End
