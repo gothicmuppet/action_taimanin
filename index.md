@@ -25,6 +25,7 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 
 
 # Supporters
+![supporter pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.o_nE7M-o0K73wkjtTl0tSAHaDV%26pid%3DApi&f=1)
 - Comes in 3 classes and 3 rarities
 - Green = Assist, Blue = Protect, Red = Suppress
 - Rarities = Rare, Super Rare, and Ultra Rare
@@ -32,8 +33,12 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 
 
 # Weapons
+![weapon pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.KoiNruTgbfUcjfOShtOOZgHaEK%26pid%3DApi&f=1)
 - Comes in 3 rarities: Rare, Super Rare, and Ultra Rare
-- 
+- You can attach Magatamas to enchance weapons.
+- ![Magatama pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.K7fAI_zNEoWKfaVBfECOCQHaFj%26pid%3DApi&f=1)
+- Rare can attach 2 Magatamas, Super Rare can attach 3 Magatamas, and Ultra Rare can attach 4 Magatamas.
+- Magatomas come in 4 types: red (ATK), blue (DEF), yellow (CRT) and green (HTH).
 
 # Questions and Answers
 1. Are there ways to gain supporters rather than by Gatcha?
