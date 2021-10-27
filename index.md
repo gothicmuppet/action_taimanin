@@ -36,7 +36,7 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 ![weapon pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.KoiNruTgbfUcjfOShtOOZgHaEK%26pid%3DApi&f=1)
 - Comes in 3 rarities: Rare, Super Rare, and Ultra Rare
 - You can attach Magatamas to enchance weapons.
-- ![Magatama pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.K7fAI_zNEoWKfaVBfECOCQHaFj%26pid%3DApi&f=1)
+- ![Magatama pic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8sN8h_s7J3iqOc746-DeknK6CbywfdPSaQ&usqp=CAU)
 - Rare can attach 2 Magatamas, Super Rare can attach 3 Magatamas, and Ultra Rare can attach 4 Magatamas.
 - Magatomas come in 4 types: red (ATK), blue (DEF), yellow (CRT) and green (HTH).
 
