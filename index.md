@@ -26,12 +26,15 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 
 # Supporters
 - Comes in 3 classes and 3 rarities
-- Green = Assist, Blue = Protect, Red = Support
+- Green = Assist, Blue = Protect, Red = Suppress
 - Rarities = Rare, Super Rare, and Ultra Rare
 - Characters can link up to 3 supporters: 1 main and 2 side.
 
 
 # Weapons
+- Comes in 3 rarities: Rare, Super Rare, and Ultra Rare
+- 
+
 # Questions and Answers
 1. Are there ways to gain supporters rather than by Gatcha?
 - Yes, do the seasonal events. Once you get the top prize, which is the supporter, then reset it and keep going up to 10 times. Every other time is a Gatcha token.
@@ -47,4 +50,7 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 4. Is there a way to try a character before you buy?
 - Unfortunately, no there is not.
 
-6. End
+5. How can I increase my gold currencies?
+- You can do the side quests that involve gold ingots. Sell those for increase gold currencies.
+
+8. End
