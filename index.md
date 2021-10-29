@@ -1,5 +1,4 @@
-# Goals for website
-- Share my knowledge in that it may help the reader
+# Action Taimanin
 
 ![Cover](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1C2JmUMdAnf9UEs8ZP9RWAHaEn%26pid%3DApi&f=1)
 
@@ -91,3 +90,6 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
     - Second option, you can buy characters. Each character you add to your roster adds 5 AP each.
 
 9. End
+
+# Goals for website
+- Share my knowledge in that it may help the reader
