@@ -23,6 +23,11 @@ Ingrid | Demon | 1200 | Sword | Dark flame
 Nova | Demon | 1200 | Pillow | n/a
 Astaroth | Demon | 1200 | magic bracelets | Fire
 
+# Gameplay
+![gameplay pic](https://user-images.githubusercontent.com/80636167/139495815-981a3406-1bfd-4caf-8f3f-6e1dcb1088da.png)
+- Purple orbs = particles
+- Green bar = health
+- blue bar = defense bar
 
 # Supporters
 ![supporter pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.o_nE7M-o0K73wkjtTl0tSAHaDV%26pid%3DApi&f=1)
@@ -31,7 +36,6 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 - Rarities = Rare, Super Rare, and Ultra Rare
 - Characters can link up to 3 supporters: 1 main and 2 side.
 
-
 # Weapons
 ![weapon pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.KoiNruTgbfUcjfOShtOOZgHaEK%26pid%3DApi&f=1)
 - Comes in 3 rarities: Rare, Super Rare, and Ultra Rare
@@ -39,6 +43,20 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 - ![Magatama pic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8sN8h_s7J3iqOc746-DeknK6CbywfdPSaQ&usqp=CAU)
 - Rare can attach 2 Magatamas, Super Rare can attach 3 Magatamas, and Ultra Rare can attach 4 Magatamas.
 - Magatomas come in 4 types: red (ATK), blue (DEF), yellow (CRT) and green (HTH).
+
+# Faculty
+- A place to increase skill points and experience without playing the character. This also applies to weapons too.
+- You can attach supporters to decrease the amount of time to finish faster.
+
+# Gacha
+![shop of desires pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.fTPoScIyRn20OAOYJzk4awHaEK%26pid%3DApi&f=1)
+- Random lottery to gain a supporter or weapon of different variety.
+- Usually, you can get tickets to get free chances.
+- There are usually 50% discounts when you use gems to get 10 chances.
+
+# Store
+- Different from the Gatcha section. 
+- The store you get what you buy. However, it is usually very expensive.
 
 # Questions and Answers
 1. Are there ways to gain supporters rather than by Gatcha?
