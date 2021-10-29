@@ -34,6 +34,7 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 - Green = Assist, Blue = Protect, Red = Suppress
 - Rarities = Rare, Super Rare, and Ultra Rare
 - Characters can link up to 3 supporters: 1 main and 2 side.
+- You can collect the same supporter multiple times.
 
 # Weapons
 ![weapon pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.KoiNruTgbfUcjfOShtOOZgHaEK%26pid%3DApi&f=1)
@@ -49,13 +50,13 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 
 # Gacha
 ![shop of desires pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.fTPoScIyRn20OAOYJzk4awHaEK%26pid%3DApi&f=1)
-- Random lottery to gain a supporter or weapon of different variety.
+- Random lottery to gain a supporter or weapon of different rarity.
 - Usually, you can get tickets to get free chances.
 - There are usually 50% discounts when you use gems to get 10 chances.
 
 # Store
 - Different from the Gatcha section. 
-- The store you get what you buy. However, it is usually very expensive.
+- The store you get what you buy. EX - characters, costumes.
 
 # Questions and Answers
 1. Are there ways to gain supporters rather than by Gatcha?
@@ -89,7 +90,11 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
     - First option, you can level up your commander rank
     - Second option, you can buy characters. Each character you add to your roster adds 5 AP each.
 
-9. End
+9. Is Shop of Desires worth it?
+- It is pretty expensive. It has additional currency that caps at 100.
+- Items there cost gems + shop of desire currency.
+
+11. End
 
 # Goals for website
 - Share my knowledge in that it may help the reader
