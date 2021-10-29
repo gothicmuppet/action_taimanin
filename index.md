@@ -1,5 +1,5 @@
 # Goals for website
-- Share knowledge from previous gamer
+- Share my knowledge in that it may help the reader
 
 ![Cover](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1C2JmUMdAnf9UEs8ZP9RWAHaEn%26pid%3DApi&f=1)
 
@@ -58,4 +58,18 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 5. How can I increase my gold currencies?
     - You can do the side quests that involve gold ingots. Sell those for increase gold currencies.
 
-8. End
+6. Who is your favorite character?
+    - Kurenai and Emily
+
+7. Who is your least favorite character?
+    - Astaroth, JingLei and Murasaki.
+    - I regret buying these characters
+    - JingLei is more of a beatem-up fighter but this game is hack and slash.
+    - Murasaki is too slow for my playstyle. Maybe it will fit your style of play.
+    - Astaroth is a poor man's version of Emily without the homing feature.
+
+8. How would I increase the green AP?
+    - First option, you can level up your commander rank
+    - Second option, you can buy characters. Each character you add to your roster adds 5 AP each.
+
+9. End
