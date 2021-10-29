@@ -49,7 +49,7 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 - You can attach supporters to decrease the amount of time to finish faster.
 
 # Gacha
-![shop of desires pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.fTPoScIyRn20OAOYJzk4awHaEK%26pid%3DApi&f=1)
+![Gacha screenshot](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.7TqScyqHLlddDW1d2gqtfwHaDg%26pid%3DApi&f=1)
 - Random lottery to gain a supporter or weapon of different rarity.
 - Usually, you can get tickets to get free chances.
 - There are usually 50% discounts when you use gems to get 10 chances.
@@ -91,6 +91,7 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
     - Second option, you can buy characters. Each character you add to your roster adds 5 AP each.
 
 9. Is Shop of Desires worth it?
+- ![shop of desires pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.fTPoScIyRn20OAOYJzk4awHaEK%26pid%3DApi&f=1)
 - It is pretty expensive. It has additional currency that caps at 100.
 - Items there cost gems + shop of desire currency.
 
