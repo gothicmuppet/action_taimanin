@@ -26,7 +26,7 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 ![gameplay pic](https://user-images.githubusercontent.com/80636167/139495815-981a3406-1bfd-4caf-8f3f-6e1dcb1088da.png)
 - Purple orbs = particles
 - Green bar = health
-- blue bar = defense bar
+- blue bar = super armor of enemies
 
 # Quest mode
 Main / Story
@@ -37,6 +37,8 @@ Daily
 - Best one is gold. Almost everything cost money
 
 Event
+
+![Event pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.J93XlVHCtURVQhROwDx3EQHaEK%26pid%3DApi&f=1)
 - Seasonal events; great for various prizes and gems
 
 Time Attack
@@ -44,10 +46,20 @@ Time Attack
 - Gains
 
 # Arena
+Prologue
+- Prerequiste to get into Arena
+
+Arena
+
+![Arena pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.KOTs79SA1feJY0KNftsfKwHaEL%26pid%3DApi&f=1)
 - Need at least 3 characters to form a team
 - Battle Arena where you spend BP instead of AP.
 - You can get various items the higher the rank you climb.
 - Basic goal is to just reach Top Rank. It resets every week.
+
+Tower
+- Send your best 3 characters and test them to the max with 60 floors of action.
+
 
 # Supporters
 ![supporter pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.o_nE7M-o0K73wkjtTl0tSAHaDV%26pid%3DApi&f=1)
