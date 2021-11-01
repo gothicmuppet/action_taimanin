@@ -28,6 +28,26 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 - Green bar = health
 - blue bar = defense bar
 
+# Quest mode
+Story
+- This is where everyone begins. I think there is like 13 chapters.
+
+Daily
+- Split into 4 sections: best one is gold
+
+Event
+- Seasonal events; great for various prizes and gems
+
+Time Attack
+- Uses BP instead of AP
+- Gains
+
+# Arena
+- Need at least 3 characters to form a team
+- Battle Arena where you spend BP instead of AP.
+- You can get various items the higher the rank you climb.
+- Basic goal is to just reach Top Rank. It resets every week.
+
 # Supporters
 ![supporter pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.o_nE7M-o0K73wkjtTl0tSAHaDV%26pid%3DApi&f=1)
 - Comes in 3 classes and 3 rarities
@@ -44,9 +64,15 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 - Rare can attach 2 Magatamas, Super Rare can attach 3 Magatamas, and Ultra Rare can attach 4 Magatamas.
 - Magatomas come in 4 types: red (ATK), blue (DEF), yellow (CRT) and green (HTH).
 
-# Faculty
-- A place to increase skill points and experience without playing the character. This also applies to weapons too.
-- You can attach supporters to decrease the amount of time to finish faster.
+# Facilities
+Weapon
+- You can upgrade weapons for free.
+Experience
+- You can give free experience for one character at a time without playing them.
+Skill
+- You can increase skill points for one character at a time without playing them.
+Supporter missions
+- Once you have extra supporters, then you can gain free stuff.
 
 # Gacha
 ![Gacha screenshot](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.7TqScyqHLlddDW1d2gqtfwHaDg%26pid%3DApi&f=1)
