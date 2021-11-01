@@ -29,11 +29,12 @@ Astaroth | Demon | 1200 | magic bracelets | Fire
 - blue bar = defense bar
 
 # Quest mode
-Story
+Main / Story
 - This is where everyone begins. I think there is like 13 chapters.
 
 Daily
-- Split into 4 sections: best one is gold
+- Split into 4 sections: Ore, Shards, Modules and Gold
+- Best one is gold. Almost everything cost money
 
 Event
 - Seasonal events; great for various prizes and gems
@@ -84,6 +85,11 @@ Supporter missions
 - Different from the Gatcha section. 
 - The store you get what you buy. EX - characters, costumes.
 
+# Friends
+- You can have up to 50 friends
+- You will be sent invitiations even when you are above 50. The point of this is to let go of players that have not been playing in your friend roster. Yes, there is a time stamp of when they last login.
+- Friendship points give you access to friendship boxes.
+
 # Questions and Answers
 1. Are there ways to gain supporters rather than by Gatcha?
     - Yes, do the seasonal events. Once you get the top prize, which is the supporter, then reset it and keep going up to 10 times. Every other time is a Gatcha token.
@@ -121,7 +127,7 @@ Supporter missions
 - It is pretty expensive. It has additional currency that caps at 100.
 - Items there cost gems + shop of desire currency.
 
-11. End
+10. End
 
 # Goals for website
 - Share my knowledge in that it may help the reader
