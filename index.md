@@ -2,6 +2,8 @@
 
 ![Cover](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1C2JmUMdAnf9UEs8ZP9RWAHaEn%26pid%3DApi&f=1)
 
+- Steam game I found that is free to play.
+
 # Characters
 
 Name | Type | Cost [gems] | Weapon | Element
@@ -78,12 +80,15 @@ Tower
 - Magatomas come in 4 types: red (ATK), blue (DEF), yellow (CRT) and green (HTH).
 
 # Facilities
-Weapon
+Weapon Training
 - You can upgrade weapons for free.
-Experience
+
+Experience Training
 - You can give free experience for one character at a time without playing them.
-Skill
+
+Skill Training
 - You can increase skill points for one character at a time without playing them.
+
 Supporter missions
 - Once you have extra supporters, then you can gain free stuff.
 
