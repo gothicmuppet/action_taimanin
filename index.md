@@ -6,23 +6,23 @@
 
 # Characters
 
-Name | Type | Cost [gems] | Weapon | Element
---- | --- | --- | --- | --- |
-Asagi | Human | 800 | Kitana | Time
-Sakura | Human | 800 | Twin Daggers | Shadow
-Yukikaze | Human | 800 | Twin pistols | Thunder
-Rinko | Human | 1000 | Samurai Sword | Space
-Shiranui | Human | 1000 | Spear | Water
-Murasaki | Human | 1000 | Battle Axe | Earth
-JingLei | Human | 1000 | Arm bands | n/a
-Oboro | Demon | 1200 | Claws | n/a
-Emily | Machine | 1200 | Droid | n/a
-Asuka | Machine | 1200 | Arm blades | Wind
-Kurenai | Demon | 1200 | Sword and Dagger | Wind
-Onsaki | Demon | 1200 | Orb | Ice
-Ingrid | Demon | 1200 | Sword | Dark flame
-Nova | Demon | 1200 | Pillow | n/a
-Astaroth | Demon | 1200 | magic bracelets | Fire
+Num | Name | Type | Cost [gems] | Weapon | Element
+--- | --- | --- | --- | --- | --- |
+1 | Asagi | Human | 800 | Kitana | Time
+2 | Sakura | Human | 800 | Twin Daggers | Shadow
+3 | Yukikaze | Human | 800 | Twin pistols | Thunder
+4 | Rinko | Human | 1000 | Samurai Sword | Space
+5 | Shiranui | Human | 1000 | Spear | Water
+6 | Murasaki | Human | 1000 | Battle Axe | Earth
+7 | JingLei | Human | 1000 | Arm bands | n/a
+8 | Oboro | Demon | 1200 | Claws | n/a
+9 | Emily | Machine | 1200 | Droid | n/a
+10 | Asuka | Machine | 1200 | Arm blades | Wind
+11 | Kurenai | Demon | 1200 | Sword and Dagger | Wind
+12 | Onisaki | Demon | 1200 | Orb | Ice
+13 | Ingrid | Demon | 1200 | Sword | Dark flame
+14 | Nova | Demon | 1200 | Pillow | n/a
+15 | Astaroth | Demon | 1200 | magic bracelets | Fire
 
 # Gameplay
 ![gameplay pic](https://user-images.githubusercontent.com/80636167/139495815-981a3406-1bfd-4caf-8f3f-6e1dcb1088da.png)
