@@ -1,8 +1,6 @@
-# Action Taimanin
+Steam game I found that is free to play. Share my knowledge in that it may help the reader
 
 ![Cover](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1C2JmUMdAnf9UEs8ZP9RWAHaEn%26pid%3DApi&f=1)
-
-- Steam game I found that is free to play.
 
 # Characters
 
@@ -146,5 +144,3 @@ Supporter missions
 
 10. End
 
-# Goals for website
-- Share my knowledge in that it may help the reader
