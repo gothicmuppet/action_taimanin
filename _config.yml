@@ -1,6 +1,6 @@
 # theme: jekyll-theme-leap-day
 
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # header line 1
 title: Action Taimanin
