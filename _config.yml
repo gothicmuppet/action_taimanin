@@ -1,6 +1,7 @@
 # theme: jekyll-theme-leap-day
 
-remote_theme: chrisbobbe/jekyll-theme-prologue
+# owner/name of theme
+remote_theme: cotes2020/chirpy
 
 # header line 1
 title: Action Taimanin
