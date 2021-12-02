@@ -4,25 +4,39 @@ Steam game I found that is free to play. Share my knowledge in that it may help 
 
 # Characters
 
+**Blue team - Protect**
+
+Num | Name | Type | Cost [gems] | Weapon | Element
+--- | --- | --- | --- | --- | --- |
+1 | Sakura | Human | 800 | Twin Daggers | Shadow
+2 | Shiranui | Human | 1000 | Spear | Water
+3 | JingLei | Human | 1000 | Arm bands | n/a
+4 | Kurenai | Demon | 1200 | Sword and Dagger | Wind
+5 | Kirara | Demon | 1200 | Orbs | Ice
+6 | Ingrid | Demon | 1200 | Sword | Dark flame
+
+**Green Team - Assist**
+
 Num | Name | Type | Cost [gems] | Weapon | Element
 --- | --- | --- | --- | --- | --- |
 1 | Asagi | Human | 800 | Kitana | Time
-2 | Sakura | Human | 800 | Twin Daggers | Shadow
-3 | Yukikaze | Human | 800 | Twin pistols | Thunder
-4 | Rinko | Human | 1000 | Samurai Sword | Space
-5 | Shiranui | Human | 1000 | Spear | Water
-6 | Murasaki | Human | 1000 | Battle Axe | Earth
-7 | JingLei | Human | 1000 | Arm bands | n/a
-8 | Oboro | Demon | 1200 | Claws | n/a
-9 | Emily | Machine | 1200 | Droid | n/a
-10 | Asuka | Machine | 1200 | Arm blades | Wind
-11 | Kurenai | Demon | 1200 | Sword and Dagger | Wind
-12 | Onisaki | Demon | 1200 | Orb | Ice
-13 | Ingrid | Demon | 1200 | Sword | Dark flame
-14 | Nova | Demon | 1200 | Pillow | n/a
-15 | Astaroth | Demon | 1200 | magic bracelets | Fire
+2 | Rinko | Human | 1000 | Samurai Sword | Space
+3 | Emily | Machine | 1200 | Droid | n/a
+4 | Noah | Demon | 1200 | Pillow | blood
+5 | Tokiko | Human | 1200 | Dagger | n/a
+
+**Red Team - Suppress**
+
+Num | Name | Type | Cost [gems] | Weapon | Element
+--- | --- | --- | --- | --- | --- |
+1 | Yukikaze | Human | 800 | Twin pistols | Thunder
+2 | Murasaki | Human | 1000 | Battle Axe | Earth
+3 | Oboro | Demon | 1200 | Claws | n/a
+4 | Asuka | Machine | 1200 | Arm blades | Wind
+5 | Astaroth | Demon | 1200 | magic bracelets | Fire
 
 # Gameplay
+
 ![gameplay pic](https://user-images.githubusercontent.com/80636167/139495815-981a3406-1bfd-4caf-8f3f-6e1dcb1088da.png)
 - Purple orbs = particles
 - Green bar = health
@@ -62,6 +76,7 @@ Tower
 
 
 # Supporters
+
 ![supporter pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.o_nE7M-o0K73wkjtTl0tSAHaDV%26pid%3DApi&f=1)
 - Comes in 3 classes and 3 rarities
 - Green = Assist, Blue = Protect, Red = Suppress
@@ -70,6 +85,7 @@ Tower
 - You can collect the same supporter multiple times.
 
 # Weapons
+
 ![weapon pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.KoiNruTgbfUcjfOShtOOZgHaEK%26pid%3DApi&f=1)
 - Comes in 3 rarities: Rare, Super Rare, and Ultra Rare
 - You can attach Magatamas to enchance weapons.
@@ -91,6 +107,7 @@ Supporter missions
 - Once you have extra supporters, then you can gain free stuff.
 
 # Gacha
+
 ![Gacha screenshot](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.7TqScyqHLlddDW1d2gqtfwHaDg%26pid%3DApi&f=1)
 - Random lottery to gain a supporter or weapon of different rarity.
 - Usually, you can get tickets to get free chances.
