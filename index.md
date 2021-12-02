@@ -52,7 +52,7 @@ Daily
 
 Event
 
-![Event pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.J93XlVHCtURVQhROwDx3EQHaEK%26pid%3DApi&f=1)
+![Event pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.kKjfIpBISE7nXvKsjzH6KwHaEK%26pid%3DApi&f=1)
 - Seasonal events; great for various prizes and gems
 
 Time Attack
