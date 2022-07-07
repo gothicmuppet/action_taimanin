@@ -77,6 +77,7 @@ Arena
 - Battle Arena where you spend BP instead of AP.
 - You can get various items the higher the rank you climb.
 - Basic goal is to just reach Top Rank. It resets every week.
+- There is a shop where you can get UR weapons.
 
 Tower
 - Send your best 3 characters and test them to the max with 60 floors of action.
@@ -162,9 +163,9 @@ Supporter missions
     - Second option, you can buy characters. Each character you add to your roster adds 5 AP each.
 
 9. Is Shop of Desires worth it?
-- ![shop of desires pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.fTPoScIyRn20OAOYJzk4awHaEK%26pid%3DApi&f=1)
-- It is pretty expensive. It has additional currency that caps at 100.
-- Items there cost gems + shop of desire currency.
+    - ![shop of desires pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.fTPoScIyRn20OAOYJzk4awHaEK%26pid%3DApi&f=1)
+    - It is pretty expensive. It has additional currency that caps at 100.
+    - Items there cost gems + shop of desire currency.
 
 10. End
 
