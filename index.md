@@ -14,6 +14,7 @@ Num | Name | Type | Cost [gems] | Weapon | Element
 4 | Kurenai | Demon | 1200 | Sword and Dagger | Wind
 5 | Kirara | Demon | 1200 | Orbs | Ice
 6 | Ingrid | Demon | 1200 | Sword | Dark flame
+7 | Maika | Human | 1200 | Bazooka | Fire
 
 **Green Team - Assist**
 
@@ -22,8 +23,9 @@ Num | Name | Type | Cost [gems] | Weapon | Element
 1 | Asagi | Human | 800 | Kitana | Time
 2 | Rinko | Human | 1000 | Samurai Sword | Space
 3 | Emily | Machine | 1200 | Droid | n/a
-4 | Noah | Demon | 1200 | Pillow | blood
+4 | Noah | Demon | 1200 | Pillow | Blood
 5 | Tokiko | Human | 1200 | Dagger | n/a
+6 | Felicia | Demon | 1200 | Scythe | Blood
 
 **Red Team - Suppress**
 
@@ -34,6 +36,11 @@ Num | Name | Type | Cost [gems] | Weapon | Element
 3 | Oboro | Demon | 1200 | Claws | n/a
 4 | Asuka | Machine | 1200 | Arm blades | Wind
 5 | Astaroth | Demon | 1200 | magic bracelets | Fire
+6 | Shizuru | Human | 1200 | Whip | Plant
+7 | Uehara Rin | Human | 1200 | Twin blades | Lightning
+
+**Notes**
+- Each character you recruit adds 5 AP to your max AP
 
 # Gameplay
 
@@ -57,7 +64,7 @@ Event
 
 Time Attack
 - Uses BP instead of AP
-- Gains
+- Gains magatamas 
 
 # Arena
 Prologue
